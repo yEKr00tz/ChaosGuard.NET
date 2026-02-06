@@ -10,7 +10,7 @@ namespace ChaosEngineering.Middleware
     /// controlled faults, latencies, and resource pressure during the development lifecycle.
     /// Developer: yEKr00tz
     /// </summary>
-    public class ChaosResilienceMiddleware.cs
+    public class ChaosResilienceMiddleware
     {
         private readonly RequestDelegate _next;
         private readonly ILogger<ChaosResilienceMiddleware> _logger;
