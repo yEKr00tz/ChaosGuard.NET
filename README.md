@@ -29,7 +29,7 @@ if (app.Environment.IsDevelopment()) {
 }
 ```
 * Monitor the logs while interacting with your application.
-
+---
 Türkçe
 .NET tabanlı uygulamaların gecikme, hata ve kaynak baskısı altındaki davranışlarını ölçmek için geliştirilmiş Resilience (Dayanıklılık) ara yazılımıdır.
 
