@@ -61,5 +61,7 @@ if (app.Environment.IsDevelopment()) {
 
 ⚖️ Disclaimer / Yasal Uyarı
 English: This tool is for testing and development purposes only. Never enable chaos injection in a production environment as it can cause service unavailability for real users.
+By using this tool, you acknowledge that all risks and responsibilities belong to the user. The developer cannot be held liable for any data loss or service instability.
 
 Türkçe: Bu araç sadece test ve geliştirme amaçlıdır. Kaos enjeksiyonunu asla canlı (production) ortamda aktif etmeyin; gerçek kullanıcılar için servis kesintilerine yol açabilir.
+Bu aracı kullanarak tüm risk ve sorumlulukların kullanıcıya ait olduğunu kabul etmiş sayılırsınız. Geliştirici, olası veri kayıplarından veya servis kesintilerinden sorumlu tutulamaz.
